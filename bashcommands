@@ -1,0 +1,285 @@
+    1  git --version
+    2  git init
+    3  git pull
+    4  cd desktop
+    5  cd desktop/
+    6  cd Desktop/
+    7  cd onedrive
+    8  cd documents
+    9  cd java
+   10  cd newRepo
+   11  git init
+   12  git add.
+   13  git add .
+   14  git status
+   15  git status
+   16  git add .
+   17  git status
+   18  git commit -m "First commit"
+   19  git status
+   20  git remote add origin https://github.com/Harshanani007/newRepo.git
+   21  git push First things first
+   22  git push origin master
+   23  git add .
+   24  git status
+   25  git add .
+   26  git status
+   27  git commmit -m "second commit"
+   28  git commit -m "second commit"
+   29  git push origin master
+   30  git branch
+   31  git branch Harsha
+   32  git checkout Harsha
+   33  git branch
+   34  git add .
+   35  $ git status
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m "branch commit kings order"
+   40  git add .
+   41  git status
+   42  git checkout -b newbranch
+   43  git add .
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "branch commit kings order"
+   48  git push origin newbranch
+   49  git checkout newbranch
+   50  git merge master
+   51  git clone https://github.com/Harshanani007/webpages.git
+   52  git clone https://github.com/Harshanani007/webpages.git clonehereman
+   53  git reflog
+   54  history
+   55  history >gibash_commands
+   56  git status
+   57  git add .
+   58  git status
+   59  git --version
+   60  git init
+   61  git pull
+   62  cd desktop
+   63  history
+   64  history >>gibash_commands
+   65  history >gibash_commands
+   66  history
+   67  history >gitbash_commands
+   68  history >gitbash_commands2
+   69  history
+   70  history >gitbash_commands2
+   71  git remote
+   72  cd C:\Users\Harshavardhan Reddy\OneDrive\Documents\java\newRepo
+   73  cd onedrive
+   74  cd documents
+   75  cd java
+   76  cd newRepo
+   77  git remote
+   78  git remote -v
+   79  git remote add Branch2 https://google.com
+   80  git remote show
+   81  git remote rename
+   82  git remote rename origin basic
+   83  git remote
+   84  git remote rm branch2
+   85  git remote rm Branch2
+   86  git remote 
+   87  git remote show
+   88  git remote get-url basic
+   89  git rename basic master
+   90  git remote rename basic master
+   91  git remote get-url master
+   92  git remote get-url basic
+   93  cd ..
+   94  mkdir newRepo2
+   95  cd newRepo2
+   96  git remote show
+   97  git remote get-url master
+   98  git remote set-url master https://github.com/Harshanani007/coding.git
+   99  git remote add master
+  100  git remote add master https://github.com/Harshanani007/coding.git
+  101  git remote show
+  102  git remote get-url
+  103  git remote get-url master
+  104  git clone https://github.com/Harshanani007/coding.git 
+  105  git cd ..
+  106  cd ..
+  107  cd newRepo
+  108  git status
+  109  cd ..
+  110  cd newRepo2
+  111  git add .
+  112  mkdir dir1
+  113  git add .
+  114  git status
+  115  git add dir1
+  116  git status
+  117  cd dir1
+  118  git add.
+  119  git add .
+  120  git status
+  121  git add file1
+  122  git add file1.txt
+  123  git status
+  124  git remote show
+  125  git remote master
+  126  git checkout masster
+  127  git checkout master
+  128  git remote checkout master
+  129  git remote get-url master
+  130  cd ..
+  131  git remote get-url master
+  132  git remote show
+  133  history
+  134  git remote -v
+  135  git remote add remote2 https://github.com/Harshanani007/string-assignment.git
+  136  git remote show
+  137  git add dir1
+  138  git status
+  139  cd dir1
+  140  git remote show
+  141  git add .
+  142  git status
+  143  git init
+  144  git remote showw
+  145  git remote 
+  146  git remote show
+  147  git remote -v
+  148  git remote https://github.com/Harshanani007/string-assignment.git
+  149  git remote add https://github.com/Harshanani007/string-assignment.git
+  150  git remote master add https://github.com/Harshanani007/string-assignment.git
+  151  git remote show
+  152  git remote get-url
+  153  git remote get-url master
+  154  cd ..
+  155  git remote show
+  156  git remote rm remote2
+  157  git remote show
+  158  cd ..
+  159  cd newRepo2
+  160  cd dir1
+  161  git remote add master https://github.com/Harshanani007/string-assignment.git
+  162  git remote show
+  163  git add .
+  164  git status
+  165  git -commit m "testing commit"
+  166  git commit -m "testing commit"
+  167  git push master master
+  168  git remote rename master master2
+  169  git commit -m "testing commit"
+  170  git push master2 master
+  171  git push master2 master
+  172  git remote rename master2 origin
+  173  git remote shoe
+  174  git remote show
+  175  git status
+  176  git add .
+  177  git status
+  178  git push origin master
+  179  git pull
+  180  git pull origin
+  181  git pull origin master
+  182  git remote show
+  183  git config --global user.name "Harshanani007"
+  184  git config --global user.email "321910306032@gitam.in"
+  185  git init
+  186  git add .
+  187  git status
+  188  git commit -m"testing commit"
+  189  git status
+  190  git push origin master
+  191  git remote show
+  192  git remote get-url
+  193  git remote get-url origin
+  194  git push origin master
+  195  git remote add origin 
+  196  git remote add origin 
+  197  git remote add origin https://github.com/Harshanani007/string-assignment.git
+  198  git remote add origin2 https://github.com/Harshanani007/string-assignment.git
+  199  git remote show
+  200  git push origin2 master
+  201  cd ..
+  202  cd ..
+  203  mkdir newRepo3
+  204  cd newRepo3
+  205  git init
+  206  git remote add origin https://github.com/Harshanani007/string-assignment.git
+  207  git remote showw
+  208  git remote show
+  209  git add .
+  210  git status
+  211  git commit -m "first commit"
+  212  git push origin master
+  213  git remote add origin2 https://github.com/Harshanani007/newRepo3.git
+  214  git push origin2 master
+  215  git branch
+  216  git branch newbranch
+  217  git checkout newbranch
+  218  git add .
+  219  git status
+  220  git add .
+  221  git status
+  222  git commit -m "branch commit"
+  223  git remote show
+  224  git push origin2 newbranch
+  225  git merge master
+  226  git checkout newbranch
+  227  git merge newbranch master
+  228  git branch master
+  229  git checkout master
+  230  git merge newbranch
+  231  git checkout -b newbranch2
+  232  git merge newbranch
+  233  git checkout newbranch
+  234  git merge newbranch2
+  235  git branch
+  236  git checkout newbranch2
+  237  git add .
+  238  git status
+  239  git  checkout master
+  240  git merge newbranch2
+  241  git add .
+  242  git status
+  243  git checkout newbranch2
+  244  git status
+  245  git commit -m "newbranch2 commit"
+  246  git push origin2 
+  247  git checkout master
+  248  git ckeckout newbranch
+  249  git checkout newbranch
+  250  git checkout master
+  251  git checkout newbranch2
+  252  git checkout master
+  253  git checkout newbranch2
+  254  git ckeckout
+  255  git checkout
+  256  git checkout master
+  257  git checkout newbranch2
+  258  git status
+  259  git add -all
+  260  git add --all
+  261  git status
+  262  git commit -m "commiting notes to newbranch2"
+  263  git push origin2 newbranch2
+  264  git checkout newbranch
+  265  git checkout newbranch2
+  266  git merge newbranch
+  267  git checkout newbranch
+  268  git merge newbranch2
+  269  git checkout newbranch
+  270  git checkout newbranch2
+  271  git pull origin2 newbranch2
+  272  git add .
+  273  git status
+  274  git add .
+  275  git status
+  276  git commit -m "after editing in the laptop updating to the git fork"
+  277  git push origin2 newBranch2
+  278  git push origin2 newbranch2
+  279  git checkout newbranch
+  280  git checkout newbranch2
+  281  git checkout newbranch
+  282  git merge newwbranch2
+  283  git merge newbranch2
+  284  history
+  285  history > bashcommands

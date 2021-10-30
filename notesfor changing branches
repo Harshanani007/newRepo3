@@ -11,3 +11,29 @@ Update Local Repo
 Use ""git pull"" to sync your local repo with the forked GitHub.com repo.
 
 Second, update local repo using git pull with the added directions of upstream indicating the central repository and master specifying which branch you are pulling down (remember, branches are a great tool to look into once you're comfortable with Git and GitHub, but we aren't going to focus on them. Just use master).
+
+Ive understood totally about github and how it works after intense browsing of 2-3 hours
+
+in git bash we first config username and email 
+git is made up of repositories at first we copy a repository link from git and add a remote "origin , origin2 like that".
+IN the git the default branch is master or main i'm not sure
+There are two operations so far push and pull
+Push:
+	The local files in the computer are gonna push to the git for this we are gonna switch to desired directory and first command is git -init the git creates a initial repository in the local files.
+	then we add files to commit like git add . or specific filename
+	then we commit files to push like git commit -m "this is first commit or second like that"
+	then we push commited files to the git using git push remote_name branch_name like git push origin2 master
+	Push is completed
+Branches:
+	if we create more branches using git branch branch_name like git branch newbranch  a new branch is created in the git fork we need to checkout to created branch and the files we are gonna push goes to this branch.
+	
+	suppose we have created three branches like newbranch1 newbranch2 newbranch3 in that newbranch1 we have pushed file1 from localfiles(laptop) and and pushed file1,file2 to newbranch2  and pushed file1,file2,file3 to the newbranch3.
+	then now we are in newbranch3 and if we switches from newbranch3 to newbranch1 the pushed files in the newbranch3 file2,file3 are deleted(actually they didnt delete from the localfiles git hides those files and just shows only the files in the localfiles pushed to newbranch1 ) to avoid this we merge branches
+	to do this we give command like git merge newbranch3 now newbranch1 and newbranch3 are merged, if we try now switching to other branches the local files wont get deleted.
+	after doing this also we wont get newbranch3 files in newbranch1 in git inlocalfiles we wont get deleted those files...
+
+Pull:
+	In this when we edit files in a specific branch in the git and to update these files in the local files we give command git pull remote_name branch_name like git pull origin2 newbranch3
+	and in addition to this after pulling only that branch only gets updated in the local files to also get those updated we merge again newbranch2 to newbranch3 to get updated files here also 
+
+now ive typed this and going to update from my local files to git
