@@ -37,3 +37,4 @@ Pull:
 	and in addition to this after pulling only that branch only gets updated in the local files to also get those updated we merge again newbranch2 to newbranch3 to get updated files here also 
 
 now ive typed this and going to update from my local files to git
+and ive done this and im going to edit this file in git and pulling this to localfiles
