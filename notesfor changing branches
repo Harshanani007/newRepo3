@@ -1,3 +1,5 @@
 Take away: changing branches does not touch/change/remove untracked or checked in files. Remember that the working directory and index are not 'cleared' before the branch content is loaded into it!
 
 but the staged files are removed because they are commited.
+
+but after checking out to old branch and merging with new branch doesnt delete the local files.
