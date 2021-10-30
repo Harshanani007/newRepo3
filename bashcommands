@@ -283,3 +283,29 @@
   283  git merge newbranch2
   284  history
   285  history > bashcommands
+  286  git checkout newbranch3
+  287  git checkout newbranch2
+  288  git add .
+  289  git add .
+  290  git status
+  291  git commit -m "after editing in the local updating to the git"
+  292  git push origin2 newbranch2
+  293  git pull origin2 newbranch2
+  294  git checkout newbranch
+  295  git checkout newbranch2
+  296  git pull origin2 newbranch
+  297  git checkout newbranch
+  298  git merge newbranch2
+  299  git checkout newbranch2
+  300  git add .
+  301  git statsu
+  302  git status
+  303  git commit -m "just playing man"
+  304  git push origin2 
+  305  git checkout newbranch
+  306  git merge newbranch2
+  307  git checkout newbranch2
+  308  git exit
+  309  git get lost
+  310  git fuck off
+  311  history > bashcommands
