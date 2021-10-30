@@ -30,7 +30,7 @@ Branches:
 	suppose we have created three branches like newbranch1 newbranch2 newbranch3 in that newbranch1 we have pushed file1 from localfiles(laptop) and and pushed file1,file2 to newbranch2  and pushed file1,file2,file3 to the newbranch3.
 	then now we are in newbranch3 and if we switches from newbranch3 to newbranch1 the pushed files in the newbranch3 file2,file3 are deleted(actually they didnt delete from the localfiles git hides those files and just shows only the files in the localfiles pushed to newbranch1 ) to avoid this we merge branches
 	to do this we give command like git merge newbranch3 now newbranch1 and newbranch3 are merged, if we try now switching to other branches the local files wont get deleted.
-	after doing this also we wont get newbranch3 files in newbranch1 in git inlocalfiles we wont get deleted those files...
+	after doing this also we wont get newbranch3 files in newbranch1 in git ,,in localfiles we wont get deleted those files and in the local files of newbranch3 gets sames as to newbranch1...
 
 Pull:
 	In this when we edit files in a specific branch in the git and to update these files in the local files we give command git pull remote_name branch_name like git pull origin2 newbranch3
