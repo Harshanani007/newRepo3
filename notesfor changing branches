@@ -5,3 +5,9 @@ but the staged files are removed because they are commited.
 but after checking out to old branch and merging with new branch doesnt delete the local files.
 
 The files are "hidden" by Git and can be revealed by switching back to your branch.
+
+THis is for updating local files from the editing files in the github website
+Update Local Repo
+Use ""git pull"" to sync your local repo with the forked GitHub.com repo.
+
+Second, update local repo using git pull with the added directions of upstream indicating the central repository and master specifying which branch you are pulling down (remember, branches are a great tool to look into once you're comfortable with Git and GitHub, but we aren't going to focus on them. Just use master).
