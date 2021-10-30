@@ -3,3 +3,5 @@ Take away: changing branches does not touch/change/remove untracked or checked i
 but the staged files are removed because they are commited.
 
 but after checking out to old branch and merging with new branch doesnt delete the local files.
+
+The files are "hidden" by Git and can be revealed by switching back to your branch.
