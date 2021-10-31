@@ -44,4 +44,6 @@ then 10k changes gotlost initially i feared a lot about losing all the files in 
 
 git clean -df git checkout --  IDK wt this is about this clean removes the files removed by git
 				removes untracked files fromthe working tree
+				
+now im trying to understand the pull request vs git pull
 
