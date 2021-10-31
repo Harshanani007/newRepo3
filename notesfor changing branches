@@ -38,3 +38,8 @@ Pull:
 
 now ive typed this and going to update from my local files to git
 and ive done this and im going to edit this file in git and pulling this to localfiles
+
+funny part ive declared init for the root folder users Ive got 10k changes nearly inthe vscode so ive searched all over the web and found out that Ive given git folder to the users file and i remove that by searching the all files present in that directory using ls -a and i removed that git file using rm -r -f .git -- This cleared all in one command...
+then 10k changes gotlost initially i feared a lot about losing all the files in my laptop.
+
+git clean -df git checkout --  IDK wt this is about 
